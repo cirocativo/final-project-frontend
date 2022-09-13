@@ -1,46 +1,30 @@
-# Getting Started with Create React App
+# Projeto final Frontend - Alimento Solidário
+> Projeto realizado em equipe, com o intuito de facilitar a doação de alimentos para instituições de caridade.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Foram utilizados conhecimentos de:
+- React
+- HTML
+- CSS
+- Javascript
+- Typescript
 
-## Available Scripts
+O tempo de desenvolvimento da aplicação foi de 1 semana e meia. A aplicação foi desenvolvida para funcionar tanto para desktop quanto para mobile.
 
-In the project directory, you can run:
+### As tecnologias em React utilizadas:
+- Styled-components
+- Context
+- React Hook Form com validações yup
+- React Router Dom 6.0
+- Axios
+- Material UI
+- Toastify
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Integrantes da Equipe:
+- [Alexandre Farias (PO)](https://github.com/alexfarias1974)
+- Ciro Cativo (SM)
+- [Fernando Cristante Izar (TL)](https://github.com/fernando-izar)
+- [Franklin Neto (QA)](https://github.com/FranklinNeto)
+- [Leonardo Mendes (QA)](https://github.com/kratzmendes)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Link do projeto: https://finalproject-m3.vercel.app/initialpage
